@@ -8,7 +8,7 @@
 
   <ItemGroup>
     <PackageReference Include="AjaxMin" Version="5.14.5506.26202" />
-    <PackageReference Include="SSH.NET" Version="2016.1.0" />
+    <PackageReference Include="SSH.NET" Version="2020.0.2" />
   </ItemGroup>
 
 </Project>
